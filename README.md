@@ -1,11 +1,10 @@
-##########################################################################
-##
-##         tmr_mod - timer device driver (for HZ = 1000)
-##
-## Allows to measure time intervals with a discrete of one and ten milliseconds
-## From the user level, functions are supported: open, close, read, write.
-##
-##########################################################################
+####################################################################
+#
+#  tmr_mod - timer device driver (for linux kernel with HZ = 1000)
+#
+# Allows to measure time intervals with a discrete of one and ten milliseconds
+#
+#####################################################################
 
 ## Description
 
